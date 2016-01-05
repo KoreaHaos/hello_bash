@@ -4,6 +4,9 @@ https://www.google.com/#q=bash+hello+world
 http://linuxconfig.org/bash-scripting-tutorial
 https://www.gnu.org/software/bash/
 
+[tutorials]
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
+
 [command history]
 https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=show%20bash%20command%20history
 http://askubuntu.com/questions/358867/how-to-view-the-bash-history-file-via-command-line
