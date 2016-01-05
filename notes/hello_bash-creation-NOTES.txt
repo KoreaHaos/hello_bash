@@ -7,6 +7,12 @@ https://www.gnu.org/software/bash/
 [tutorials]
 http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
 
+[commenting]
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bash%20comments
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_02.html
+http://stackoverflow.com/questions/2524367/inline-comments-for-bash
+http://stackoverflow.com/questions/947897/block-comments-in-a-shell-script
+
 [command history]
 https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=show%20bash%20command%20history
 http://askubuntu.com/questions/358867/how-to-view-the-bash-history-file-via-command-line

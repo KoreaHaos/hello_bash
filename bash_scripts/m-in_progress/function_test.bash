@@ -15,7 +15,13 @@ function e {
 
 hello
 e World!
-e
+
+# e #<--- uncomment this and you
+# hmmm <--- uncomment this and you will get an error.
 quit
 
 echo foo
+
+function hmmm {
+   echo it works
+}
