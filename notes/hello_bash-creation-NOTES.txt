@@ -1,0 +1,38 @@
+[the basics]
+https://www.google.com/#q=bash
+https://www.google.com/#q=bash+hello+world
+http://linuxconfig.org/bash-scripting-tutorial
+https://www.gnu.org/software/bash/
+
+[command history]
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=show%20bash%20command%20history
+http://askubuntu.com/questions/358867/how-to-view-the-bash-history-file-via-command-line
+http://www.tldp.org/LDP/GNU-Linux-Tools-Summary/html/x1712.htm
+https://www.digitalocean.com/community/tutorials/how-to-use-bash-history-commands-and-expansions-on-a-linux-vps
+
+[clearing command history]
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=clear%20command%20from%20bash%20history
+http://rawsyntax.com/blog/learn-bash-remove-commands-from-your-history/
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bash%20turn%20off%20command%20history
+http://unix.stackexchange.com/questions/10922/temporarily-suspend-bash-history-on-a-given-shell
+
+[for the repo]
+http://imgur.com/
+http://imgur.com/gallery/uMQAzVh/new
+http://i.imgur.com/uMQAzVh.gif
+https://www.google.com/search?q=bash+hello+world&biw=1366&bih=653&source=lnms&tbm=isch&sa=X&sqi=2&ved=0ahUKEwjmvvvXmpLKAhWHKpQKHVCnAEkQ_AUIBigB#tbm=isch&q=bash
+
+[BROWSER DUMP]
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bash%20get%20current%20directory
+http://stackoverflow.com/questions/59895/can-a-bash-script-tell-what-directory-its-stored-in
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bash+echo+off
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bash%20echo
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bash+echo+new+line
+http://ss64.com/bash/echo.html
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bash+printf
+http://www.linuxquestions.org/questions/linux-newbie-8/what-is-the-@echo-off-alternative-for-a-shell-script-780842/
+http://ss64.com/bash/printf.html
+http://wiki.bash-hackers.org/commands/builtin/printf
+http://stackoverflow.com/questions/68372/what-is-your-single-most-favorite-command-line-trick-using-bash
+http://stackoverflow.com/questions/8467424/echo-new-line-in-bash-prints-literal-n
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-10.html
