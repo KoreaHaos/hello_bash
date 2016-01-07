@@ -19,3 +19,5 @@ git commit -m "$git_commit_comment"
 
 # Push to remote (Not sure if this is the best way to be doing this...)
 git push --all
+
+# Hmm.. something didn't work the way i expected...
