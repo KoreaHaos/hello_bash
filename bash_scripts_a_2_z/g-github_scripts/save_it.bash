@@ -1,9 +1,9 @@
 # Set commit message to first arg passed to script, basic default if no arg.
-if [ -z $passed_in_arg ];
+if [ -z $1 ];
 then
     git_commit_comment="Commited with script save_it.bash, no commit arg passed"
 else
-    git_commit_comment=$passed_in_arg
+    git_commit_comment=$1
 fi
 
 # This line turns on password retention for 15 mins, not sure if it makes sense
@@ -20,4 +20,4 @@ git commit -m "$git_commit_comment"
 # Push to remote (Not sure if this is the best way to be doing this...)
 git push --all
 
-# Hmm.. something didn't work the way i expected...
+# OK, think that'll fix it...
