@@ -1,5 +1,6 @@
 # Set commit message to first arg passed to script, basic default if no arg.
-if [ -z $1 ];
+# Call with $
+if [ -z "$1" ];
 then
     git_commit_comment="Commited with script save_it.bash, no commit arg passed."
 else
